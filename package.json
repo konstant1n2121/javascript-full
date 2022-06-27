@@ -16,7 +16,8 @@
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-prettier": "^4.0.0",
     "prettier": "^2.5.1",
+    "standard": "^17.0.0",
     "to": "^0.2.9",
-    "update": "^0.4.2"
+    "update": "^0.7.4"
   }
 }
