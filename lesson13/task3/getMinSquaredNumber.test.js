@@ -2,7 +2,7 @@ import { getMinSquaredNum } from './getMinSquaredNUmber';
 
 it('it should get min square of number', () => {
   const result = getMinSquaredNum([-2, 4, 5]);
-  expect(result).toEqual([4]);
+  expect(result).toEqual(4);
 });
 
 it('it should return null if not an array', () => {
